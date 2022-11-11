@@ -10,6 +10,10 @@ Eye-Aspect-Ratio (EAR)
 
 ![EAR-final](https://user-images.githubusercontent.com/47856985/158023366-4c543d5c-6cb1-4d8b-af93-c9a8e5788d41.png)
 
+The Morse code is generated with the help of eyes. Every time a person/user blinks his/her eyes an output of dash and dot is generated which is Morse code.
+OpenCV and Dlib libraries are used with facial landmark detection for eye blink detection
+Tools Used: OpenCV,Numpy,Dlib
+
 
 You will see that Eye-Aspect-Ratio is the simplest and the most elegant feature that takes good advantage of the facial landmarks. EAR helps us in detecting blinks and winks etc.
 
